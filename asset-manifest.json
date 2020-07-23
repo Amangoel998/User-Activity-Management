@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.21bd1bbb.chunk.js",
-    "main.js.map": "/static/js/main.21bd1bbb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b54f667d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b54f667d.js.map",
-    "static/css/2.701597db.chunk.css": "/static/css/2.701597db.chunk.css",
-    "static/js/2.92bef366.chunk.js": "/static/js/2.92bef366.chunk.js",
-    "static/js/2.92bef366.chunk.js.map": "/static/js/2.92bef366.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b7d605feb1e6e3848b8d5b4ce2e52540.js": "/precache-manifest.b7d605feb1e6e3848b8d5b4ce2e52540.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.701597db.chunk.css.map": "/static/css/2.701597db.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.92bef366.chunk.js.LICENSE.txt": "/static/js/2.92bef366.chunk.js.LICENSE.txt"
+    "main.css": "/User-Activity-Management/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/User-Activity-Management/static/js/main.8a7f22b5.chunk.js",
+    "main.js.map": "/User-Activity-Management/static/js/main.8a7f22b5.chunk.js.map",
+    "runtime-main.js": "/User-Activity-Management/static/js/runtime-main.f6d17a9c.js",
+    "runtime-main.js.map": "/User-Activity-Management/static/js/runtime-main.f6d17a9c.js.map",
+    "static/css/2.701597db.chunk.css": "/User-Activity-Management/static/css/2.701597db.chunk.css",
+    "static/js/2.92bef366.chunk.js": "/User-Activity-Management/static/js/2.92bef366.chunk.js",
+    "static/js/2.92bef366.chunk.js.map": "/User-Activity-Management/static/js/2.92bef366.chunk.js.map",
+    "index.html": "/User-Activity-Management/index.html",
+    "precache-manifest.9d911e8c99944f293feddc1e25c39eee.js": "/User-Activity-Management/precache-manifest.9d911e8c99944f293feddc1e25c39eee.js",
+    "service-worker.js": "/User-Activity-Management/service-worker.js",
+    "static/css/2.701597db.chunk.css.map": "/User-Activity-Management/static/css/2.701597db.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/User-Activity-Management/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.92bef366.chunk.js.LICENSE.txt": "/User-Activity-Management/static/js/2.92bef366.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b54f667d.js",
+    "static/js/runtime-main.f6d17a9c.js",
     "static/css/2.701597db.chunk.css",
     "static/js/2.92bef366.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.21bd1bbb.chunk.js"
+    "static/js/main.8a7f22b5.chunk.js"
   ]
 }
