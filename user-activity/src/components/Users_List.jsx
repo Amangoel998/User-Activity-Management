@@ -9,7 +9,7 @@ function UsersList(props) {
   });
   useEffect(() => {
     setUsers({ done: false });
-    fetch("/db.json")
+    fetch("https://amangoel998.github.io/User-Activit-Management/db.json")
       .then((response) => response.json())
       .then((data) => setUsers({ members: data.members, done: true }));
   }, [setUsers]);
