@@ -13,8 +13,7 @@ function UserActivity(props) {
     let date = new Date(str);
     let utcDate = new Date(date.toLocaleString("en-US", { timeZone: "UTC" }));
     let tzDate = new Date(date.toLocaleString("en-US", { timeZone: timeZone }));
-    let offset = utcDate.getTime() - tzDate.getTime();
-
+    
     date.setTime(date.getTime());
     return date;
   };

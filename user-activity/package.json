@@ -2,7 +2,7 @@
   "name": "user-activity",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amangoel998.github.io/User-Activity-Management/",
+  "homepage": "https://amangoel998.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
