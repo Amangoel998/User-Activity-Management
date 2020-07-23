@@ -15,7 +15,7 @@ function BarChart(props) {
   const chartDomain = [0, 60];
   const [data, setData] = useState([]);
   useEffect(() => {
-    fetch("https://amangoel998.github.io/User-Activit-Management/graph_data.json")
+    fetch("https://amangoel998.github.io/User-Activity-Management/graph_data.json")
       .then((response) => response.json())
       .then((e) => setData(e));
   }, [setData]);
